@@ -1,17 +1,17 @@
-# AHP Chain Global Invest - Modelo de Decisión Multicriterio
+# Chain Global Invest - Modelo de Decisión Multicriterio
 
 ## Resumen Ejecutivo
 Este repositorio contiene el script de priorización de cadenas productivas de la plataforma Chain Global Invest:
 
 https://chainglobalinvest.com/
 
-Desarrollada por **José Alan Párraga Condezo**. Está diseñada para el análisis multicriterio de siete cadenas productivas de Andahuaylas (Perú) en su primera versión demo.
+Desarrollada por **Alan Párraga**. Está diseñada para el análisis multicriterio de siete cadenas productivas de Andahuaylas (Perú) en su primera versión demo.
 
 ## Metodología y Fundamento Matemático
 El motor decisor se basa en el **Proceso Analítico Jerárquico (AHP)**, incorporando la técnica de **Agregación de Prioridades Individuales (AIP)**. Este marco metodológico garantiza:
 * **Rigor Matemático:** Cálculo preciso de pesos de prioridad y descomposición de autovectores.
 * **Validación de Consistencia:** Monitoreo automatizado de la Razón de Consistencia (CR) para asegurar la confiabilidad de los juicios de los expertos.
-* **Escalabilidad Operativa:** Estructurado para gestionar conjuntos complejos de datos orientados al análisis territorial, pero bajo las consignas y disposiciones técnicas recomendadas por Thomás Satty.
+* **Escalabilidad Operativa:** Estructurado para gestionar conjuntos complejos de datos orientados al análisis territorial, pero bajo las consignas y disposiciones técnicas recomendadas por Thomás Saaty.
 
 ## Arquitectura del Proyecto
 * **`motor-chain-global-invest-demo.py`**: Script principal que gestiona la ejecución del motor de decisión AHP.
@@ -19,9 +19,10 @@ El motor decisor se basa en el **Proceso Analítico Jerárquico (AHP)**, incorpo
 * **Dependencias**: Construido sobre librerías como `pandas` y `numpy`.
 
 ## Propiedad intelectual
-* **Autor**: José Alan Párraga Condezo.
+* **Autoría y Desarrollo: Alan Párraga**: Alan Párraga (Founder, Chain Global Invest).
 * **Modelado**: Realidad productiva bajo el contexto de la provincia de Andahuaylas en el marco del programa de estado PROCOMPITE de la república del Perú.
 * **License**: CC BY-NC 4.0
+* **Observación**: Los datos originales han sido editados para proteger la identidad de los que toman decisiones y participaron en esta investigación. De igual manera, se omitido parte del código completo original por propiedad intelectual.
 
 ## Ejecución Local
 Para desplegar el modelo en tu entorno local, asegúrate de tener Python instalado y ejecuta los siguientes comandos en tu terminal:
