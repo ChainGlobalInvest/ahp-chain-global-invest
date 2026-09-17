@@ -5,7 +5,7 @@ Este repositorio contiene el script de priorización de cadenas productivas de l
 
 https://chainglobalinvest.com/
 
-Desarrollada por **Alan Párraga**. Está diseñada para el análisis multicriterio de siete cadenas productivas de Andahuaylas (Perú) en su primera versión demo.
+Desarrollada por **Alan Párraga**. Está diseñada para el análisis multicriterio de siete cadenas productivas de una provincia del sur del Perú en su primera versión demo.
 
 ## Metodología y Fundamento Matemático
 El motor decisor se basa en el **Proceso Analítico Jerárquico (AHP)**, incorporando la técnica de **Agregación de Prioridades Individuales (AIP)**. Este marco metodológico garantiza:
