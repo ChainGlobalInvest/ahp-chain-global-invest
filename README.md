@@ -20,7 +20,7 @@ El motor decisor se basa en el **Proceso Analítico Jerárquico (AHP)**, incorpo
 
 ## Propiedad intelectual
 * **Autoría y Desarrollo: Alan Párraga**: Alan Párraga (Founder, Chain Global Invest).
-* **Modelado**: Realidad productiva bajo el contexto de la provincia de Andahuaylas en el marco del programa de estado PROCOMPITE de la república del Perú.
+* **Modelado**: Realidad productiva bajo el contexto de una provincia del sur del Perú en el marco del programa de estado PROCOMPITE.
 * **License**: CC BY-NC 4.0
 * **Observación**: Los datos originales han sido editados para proteger la identidad de los que toman decisiones y participaron en esta investigación. De igual manera, se omitido parte del código completo original por propiedad intelectual.
 
