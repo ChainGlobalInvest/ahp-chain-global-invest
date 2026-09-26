@@ -21,7 +21,7 @@ Este marco metodológico garantiza:
 * **Dependencias**: Construido sobre librerías como `pandas` y `numpy`.
 
 ## Propiedad intelectual
-* **Autoría y Desarrollo: Alan Párraga**: Alan Párraga (Founder, Chain Global Invest).
+* **Autoría y Desarrollo:** Alan Párraga (Founder, Chain Global Invest).
 * **Modelado**: Realidad productiva bajo el contexto de una provincia del sur del Perú en el marco del programa de estado PROCOMPITE.
 * **License**: CC BY-NC 4.0
 * **Observación**: Los datos originales han sido editados para proteger la identidad de los que toman decisiones y participaron en esta investigación. De igual manera, se omitido parte del código completo original por propiedad intelectual.
